@@ -1,0 +1,5 @@
+{
+  "name": "SkyPulse VN - Weather & Air Quality",
+  "description": "A sophisticated weather and air quality monitoring application that provides real-time data on temperature, humidity, PM2.5 pollution, wind speed, and rain forecasts. Manual location entry for enhanced privacy.",
+  "requestFramePermissions": []
+}
